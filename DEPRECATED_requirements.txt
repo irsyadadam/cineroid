@@ -1,0 +1,26 @@
+#CUDA Version 11.0
+#Pytorch 1.6.0
+#Python 3.8.6
+
+conda install -y albumentations
+conda install -y argparse
+conda install -y cv2
+conda install -y csv
+conda install -y glob
+conda install -y h5py
+conda install -y math
+conda install -y matplotlib
+conda install -y numpy
+conda install -y operator
+conda install -y os
+conda install -y pandas
+conda install -y pathlib
+conda install -y PIL
+conda install -y random
+conda install -y re
+conda install -y sklearn
+conda install -y tables
+conda install -y time
+
+conda install -y torch=1.6.0 cuda110 -c pytorch
+
